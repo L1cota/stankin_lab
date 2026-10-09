@@ -19,6 +19,8 @@ def TempOfDat(i : float) -> str:
     except Exception as e:
         return f"Ой все сломалось : {e}"
 
+
+
 def cow_diagnostic(i : float):
     """Функция принимает на вход значение датчика
     и выдает результат в виде текстовой диганостити дачика и коровы
@@ -34,5 +36,7 @@ def cow_diagnostic(i : float):
         return "Срочно вызвать ветеринара, корова в критическом состоянии"
     if 37.5 <= temp["temperature"] < 39.0:
         return "Корова чувствует себя хорошо"
+
+
     
 print (cow_diagnostic(4.5))
