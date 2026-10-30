@@ -1,0 +1,112 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Мастер и Маргарита",
+            "author": "Михаил Булгаков",
+            "publisher": "АСТ",
+            "category": "Роман",
+            "price": 550.0,
+            "quantity": 4
+        },
+        {
+            "id": 2,
+            "title": "Преступление и наказание",
+            "author": "Фёдор Достоевский",
+            "publisher": "Эксмо",
+            "category": "Роман",
+            "price": 480.0,
+            "quantity": 3
+        },
+        {
+            "id": 3,
+            "title": "Евгений Онегин",
+            "author": "Александр Пушкин",
+            "publisher": "Азбука",
+            "category": "Поэзия",
+            "price": 350.0,
+            "quantity": 6
+        },
+        {
+            "id": 4,
+            "title": "Война и мир",
+            "author": "Лев Толстой",
+            "publisher": "АСТ",
+            "category": "Роман",
+            "price": 890.0,
+            "quantity": 2
+        },
+        {
+            "id": 5,
+            "title": "Отцы и дети",
+            "author": "Иван Тургенев",
+            "publisher": "Эксмо",
+            "category": "Роман",
+            "price": 420.0,
+            "quantity": 5
+        },
+        {
+            "id": 6,
+            "title": "Маленький принц",
+            "author": "Антуан де Сент-Экзюпери",
+            "publisher": "АСТ",
+            "category": "Сказка",
+            "price": 390.0,
+            "quantity": 8
+        },
+        {
+            "id": 7,
+            "title": "1984",
+            "author": "Джордж Оруэлл",
+            "publisher": "АСТ",
+            "category": "Антиутопия",
+            "price": 520.0,
+            "quantity": 5
+        },
+        {
+            "id": 8,
+            "title": "Три товарища",
+            "author": "Эрих Мария Ремарк",
+            "publisher": "АСТ",
+            "category": "Роман",
+            "price": 610.0,
+            "quantity": 3
+        },
+        {
+            "id": 9,
+            "title": "451 градус по Фаренгейту",
+            "author": "Рэй Брэдбери",
+            "publisher": "Эксмо",
+            "category": "Фантастика",
+            "price": 470.0,
+            "quantity": 7
+        },
+        {
+            "id": 10,
+            "title": "Гордость и предубеждение",
+            "author": "Джейн Остин",
+            "publisher": "Азбука",
+            "category": "Роман",
+            "price": 460.0,
+            "quantity": 4
+        },
+        {
+            "id": 11,
+            "title": "Приключения Шерлока Холмса",
+            "author": "Артур Конан Дойл",
+            "publisher": "Эксмо",
+            "category": "Детектив",
+            "price": 580.0,
+            "quantity": 6
+        },
+        {
+            "id": 12,
+            "title": "Хоббит, или Туда и обратно",
+            "author": "Джон Р. Р. Толкин",
+            "publisher": "АСТ",
+            "category": "Фэнтези",
+            "price": 690.0,
+            "quantity": 3
+        }
+    ]
+}

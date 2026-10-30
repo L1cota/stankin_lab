@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bookstore>
+    <book>
+        <id>1</id>
+        <title>Мастер и Маргарита</title>
+        <author>Михаил Булгаков</author>
+        <publisher>АСТ</publisher>
+        <category>Роман</category>
+        <price>550.0</price>
+        <quantity>4</quantity>
+    </book>
+    <book>
+        <id>2</id>
+        <title>Преступление и наказание</title>
+        <author>Фёдор Достоевский</author>
+        <publisher>Эксмо</publisher>
+        <category>Роман</category>
+        <price>480.0</price>
+        <quantity>3</quantity>
+    </book>
+    <book>
+        <id>3</id>
+        <title>Евгений Онегин</title>
+        <author>Александр Пушкин</author>
+        <publisher>Азбука</publisher>
+        <category>Поэзия</category>
+        <price>350.0</price>
+        <quantity>6</quantity>
+    </book>
+    <book>
+        <id>4</id>
+        <title>Война и мир</title>
+        <author>Лев Толстой</author>
+        <publisher>АСТ</publisher>
+        <category>Роман</category>
+        <price>890.0</price>
+        <quantity>2</quantity>
+    </book>
+    <book>
+        <id>5</id>
+        <title>Отцы и дети</title>
+        <author>Иван Тургенев</author>
+        <publisher>Эксмо</publisher>
+        <category>Роман</category>
+        <price>420.0</price>
+        <quantity>5</quantity>
+    </book>
+    <book>
+        <id>6</id>
+        <title>Маленький принц</title>
+        <author>Антуан де Сент-Экзюпери</author>
+        <publisher>АСТ</publisher>
+        <category>Сказка</category>
+        <price>390.0</price>
+        <quantity>8</quantity>
+    </book>
+    <book>
+        <id>7</id>
+        <title>1984</title>
+        <author>Джордж Оруэлл</author>
+        <publisher>АСТ</publisher>
+        <category>Антиутопия</category>
+        <price>520.0</price>
+        <quantity>5</quantity>
+    </book>
+    <book>
+        <id>8</id>
+        <title>Три товарища</title>
+        <author>Эрих Мария Ремарк</author>
+        <publisher>АСТ</publisher>
+        <category>Роман</category>
+        <price>610.0</price>
+        <quantity>3</quantity>
+    </book>
+    <book>
+        <id>9</id>
+        <title>451 градус по Фаренгейту</title>
+        <author>Рэй Брэдбери</author>
+        <publisher>Эксмо</publisher>
+        <category>Фантастика</category>
+        <price>470.0</price>
+        <quantity>7</quantity>
+    </book>
+    <book>
+        <id>10</id>
+        <title>Гордость и предубеждение</title>
+        <author>Джейн Остин</author>
+        <publisher>Азбука</publisher>
+        <category>Роман</category>
+        <price>460.0</price>
+        <quantity>4</quantity>
+    </book>
+    <book>
+        <id>11</id>
+        <title>Приключения Шерлока Холмса</title>
+        <author>Артур Конан Дойл</author>
+        <publisher>Эксмо</publisher>
+        <category>Детектив</category>
+        <price>580.0</price>
+        <quantity>6</quantity>
+    </book>
+    <book>
+        <id>12</id>
+        <title>Хоббит, или Туда и обратно</title>
+        <author>Джон Р. Р. Толкин</author>
+        <publisher>АСТ</publisher>
+        <category>Фэнтези</category>
+        <price>690.0</price>
+        <quantity>3</quantity>
+    </book>
+</bookstore>
